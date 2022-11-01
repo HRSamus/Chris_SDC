@@ -1,0 +1,3 @@
+Dark Purple: rgba(81, 29, 102,0.7819502801120448)
+Shape Purple: #6e5278
+Nice Purple: #8B008B

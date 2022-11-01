@@ -1,0 +1,289 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`next hides on change 1`] = `
+<div
+  style={
+    {
+      "maxWidth": "500px",
+      "position": "relative",
+    }
+  }
+>
+  <div
+    className="sc-eDvSVe htMdsl"
+  />
+  <div
+    aria-label="Product Carousel"
+    className="sc-bcXHqe dIXrQb"
+  >
+    <button
+      className="sc-gswNZR sc-hLBbgP gDWjNX kbQPoy"
+      onClick={[Function]}
+    >
+      &gt;
+    </button>
+    <div
+      className="sc-eDWCr FgxmC"
+    >
+      <div
+        className="sc-jSUZER jqkdYo"
+      >
+        <div
+          className="sc-gKPRtg kHPEnk"
+        >
+          <img
+            alt="Image of RelatedProduct"
+            className="sc-iBYQkv iHGUpD"
+            src="./testImage.png"
+          />
+          <img
+            aria-label="Comparison Button"
+            className="sc-ftTHYK bwbWm"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="./star-empty-icon.png"
+          />
+        </div>
+        <div
+          className="sc-pyfCe gajNgd"
+        >
+          <p
+            className="sc-jrcTuL lcbUeq"
+          >
+            Jackets
+          </p>
+          <h5
+            className="sc-kDvujY bkUuDT"
+          >
+            Camo Onesie
+          </h5>
+          <p
+            className="sc-ipEyDJ jAscTz"
+          >
+            140
+          </p>
+          <img
+            className="sc-csuSiG hlkPKg"
+            src=""
+          />
+        </div>
+      </div>
+      <div
+        className="sc-jSUZER jqkdYo"
+      >
+        <div
+          className="sc-gKPRtg kHPEnk"
+        >
+          <img
+            alt="Image of RelatedProduct"
+            className="sc-iBYQkv iHGUpD"
+            src="./testImage.png"
+          />
+          <img
+            aria-label="Comparison Button"
+            className="sc-ftTHYK bwbWm"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="./star-empty-icon.png"
+          />
+        </div>
+        <div
+          className="sc-pyfCe gajNgd"
+        >
+          <p
+            className="sc-jrcTuL lcbUeq"
+          >
+            Accessories
+          </p>
+          <h5
+            className="sc-kDvujY bkUuDT"
+          >
+            Bright Future Sunglasses
+          </h5>
+          <p
+            className="sc-ipEyDJ jAscTz"
+          >
+            69
+          </p>
+          <img
+            className="sc-csuSiG hlkPKg"
+            src=""
+          />
+        </div>
+      </div>
+      <div
+        className="sc-jSUZER jqkdYo"
+      >
+        <div
+          className="sc-gKPRtg kHPEnk"
+        >
+          <img
+            alt="Image of RelatedProduct"
+            className="sc-iBYQkv iHGUpD"
+            src="./testImage.png"
+          />
+          <img
+            aria-label="Comparison Button"
+            className="sc-ftTHYK bwbWm"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="./star-empty-icon.png"
+          />
+        </div>
+        <div
+          className="sc-pyfCe gajNgd"
+        >
+          <p
+            className="sc-jrcTuL lcbUeq"
+          >
+            Pants
+          </p>
+          <h5
+            className="sc-kDvujY bkUuDT"
+          >
+            Morning Joggers
+          </h5>
+          <p
+            className="sc-ipEyDJ jAscTz"
+          >
+            40
+          </p>
+          <img
+            className="sc-csuSiG hlkPKg"
+            src=""
+          />
+        </div>
+      </div>
+      <div
+        className="sc-jSUZER jqkdYo"
+      >
+        <div
+          className="sc-gKPRtg kHPEnk"
+        >
+          <img
+            alt="Image of RelatedProduct"
+            className="sc-iBYQkv iHGUpD"
+            src="./testImage.png"
+          />
+          <img
+            aria-label="Comparison Button"
+            className="sc-ftTHYK bwbWm"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="./star-empty-icon.png"
+          />
+        </div>
+        <div
+          className="sc-pyfCe gajNgd"
+        >
+          <p
+            className="sc-jrcTuL lcbUeq"
+          >
+            Jackets
+          </p>
+          <h5
+            className="sc-kDvujY bkUuDT"
+          >
+            Camo Onesie
+          </h5>
+          <p
+            className="sc-ipEyDJ jAscTz"
+          >
+            140
+          </p>
+          <img
+            className="sc-csuSiG hlkPKg"
+            src=""
+          />
+        </div>
+      </div>
+      <div
+        className="sc-jSUZER jqkdYo"
+      >
+        <div
+          className="sc-gKPRtg kHPEnk"
+        >
+          <img
+            alt="Image of RelatedProduct"
+            className="sc-iBYQkv iHGUpD"
+            src="./testImage.png"
+          />
+          <img
+            aria-label="Comparison Button"
+            className="sc-ftTHYK bwbWm"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="./star-empty-icon.png"
+          />
+        </div>
+        <div
+          className="sc-pyfCe gajNgd"
+        >
+          <p
+            className="sc-jrcTuL lcbUeq"
+          >
+            Accessories
+          </p>
+          <h5
+            className="sc-kDvujY bkUuDT"
+          >
+            Bright Future Sunglasses
+          </h5>
+          <p
+            className="sc-ipEyDJ jAscTz"
+          >
+            69
+          </p>
+          <img
+            className="sc-csuSiG hlkPKg"
+            src=""
+          />
+        </div>
+      </div>
+      <div
+        className="sc-jSUZER jqkdYo"
+      >
+        <div
+          className="sc-gKPRtg kHPEnk"
+        >
+          <img
+            alt="Image of RelatedProduct"
+            className="sc-iBYQkv iHGUpD"
+            src="./testImage.png"
+          />
+          <img
+            aria-label="Comparison Button"
+            className="sc-ftTHYK bwbWm"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="./star-empty-icon.png"
+          />
+        </div>
+        <div
+          className="sc-pyfCe gajNgd"
+        >
+          <p
+            className="sc-jrcTuL lcbUeq"
+          >
+            Pants
+          </p>
+          <h5
+            className="sc-kDvujY bkUuDT"
+          >
+            Morning Joggers
+          </h5>
+          <p
+            className="sc-ipEyDJ jAscTz"
+          >
+            40
+          </p>
+          <img
+            className="sc-csuSiG hlkPKg"
+            src=""
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

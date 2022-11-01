@@ -1,0 +1,11 @@
+node_modules
+client/dist/bundle.js
+client/dist/bundle.js.map
+.env
+package-lock.json
+MyConfig.js
+client/dist/*.png
+client/dist/*.ttf
+*.DS_Store
+coverage
+
