@@ -1,35 +1,20 @@
 # Project Name
-  Tyrell - FEC
+  Samus - SDC
 
-> Project description
+> System Design Capstone
 
 ## Related Projects
 
   - https://github.com/HRTyrell/BalajiSathiya
-  - https://github.com/HRTyrell/BTanaka11
-  - https://github.com/HRTyrell/gthellter
-  - https://github.com/HRTyrell/babsjohnson
+  - https://github.com/HRSamus/
+  - https://github.com/HRSamus/
+  - https://github.com/HRSamus/
 
 ## Table of Contents
 
 1. [Usage](#Usage)
 1. [Requirements](#requirements)
 1. [Development](#development)
-
-## Related Products & Your Outfit
-  ![RelatedItemsFeatures](https://user-images.githubusercontent.com/5504860/198851825-45b8c683-dd7c-4dc6-b3fb-947ea1d1bed9.gif)
-  
-  This Component consists of the following:
-###### Related Items
-- A scrollable carousel that shows all the realted items for the selected product
-- Clickable Cards that show the relavant product information, the onclick handler changes the selected product and scrolls the user to the top
-- A star that, when hovering opens a modal that compares the related item to the currently selected item
-###### Your Outfit
-- A scrollable carousel that shows all the products in the users outfit
-- Clickable Cards that show the relavant product information, the onclick handler changes the selected product and scrolls the user to the top
-- An initial card that, when clicked adds the selected product to the users outfit, being retained in local Storage
-- A cross in the top right that, when clicked, removes the product from the users oufit.
- 
 
 ## Constructing a Git Workflow
 
@@ -62,6 +47,22 @@
 1. ***git push -u origin BRANCH_NAME*** (Sending info to Git Repo)
 1. ***ONLY SEND PULL REQUEST TO TEST BRANCH***
 1. Test branch has all the tests while main branch is clear of tests
+
+## Duplicating Branch
+
+1. Start from OG Repo and Make the Mirroring Repo in Git
+1. ***git remote add {NAME} {NEWREPOURL}*** (Do this from the root of the file you want to copy)
+1. ***git push {NAME}*** (Now the files have all been pushed to the mirror)
+1. Refresh and grab the HTTPS code from Git and clone locally
+  - Continue if you want to clear git history or branches
+1. Go into mirrored repo root directory and run
+1. ***rm -rf .git*** (Gets rid of .git file)
+1. ***git init*** (Creates .git file structure)
+1. ***git add .*** 
+1. ***git commit -m "Initial Commit"*** 
+1. ***git remote add {New Repo Name} {NewRepoUrl}***
+1. ***git push {Repo Name}***
+1. ***git push (To update Github)*** 
 
 ## Requirements
 
