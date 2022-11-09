@@ -53,6 +53,7 @@
     "react-modal": "^3.16.1",
     "react-test-renderer": "^17.0.2",
     "sass": "^1.55.0",
+    "sequelize": "^6.25.4",
     "sharethis-reactjs": "^1.6.0",
     "styled-components": "^5.3.6",
     "uuid": "^8.3.2",
