@@ -8,11 +8,7 @@ app.use(express.static(path.join(__dirname, "../client/dist")));
 
 app.get('/qa/questions', db.getQuestions);
 app.get('/qa/questions/:question_id/answers', db.getAnswers);
-app.post('/qa/questions', db.addQuestion)
-// app.post()
-// app.put()
-// app.put()
-// app.put()
+// app.post('/qa/questions', db.addQuestion)
 // app.put()
 
 app.listen(3000);
